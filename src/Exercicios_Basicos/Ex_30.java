@@ -57,7 +57,7 @@ public class Ex_30 {
 					for(c = b; c <= a; c++) {
 						
 						System.out.printf("%d", c); 
-						d+=c; 
+						d+=c;
 					}
 					
 					System.out.printf(" Soma = %d \n", d);
