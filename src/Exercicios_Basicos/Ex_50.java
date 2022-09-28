@@ -17,6 +17,7 @@ package Exercicios_Basicos;
 
 import java.util.Scanner;
 
+
 public class Ex_50 {
 	
 	public static void main(String[] args) {
